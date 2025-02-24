@@ -13,3 +13,7 @@ sudo apt-get install jenkins -y
 ..........................................................................
  java version update 
 #sudo update-alternatives --config java
+
+
+
+.
